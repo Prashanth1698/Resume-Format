@@ -1,0 +1,11 @@
+body{
+    position: absolute;
+    width: 100%;
+    height: 95%;
+    background: url(https://webfeb.in/wp-content/uploads/2016/09/job-portal-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.text{
+    resize: none;
+}
